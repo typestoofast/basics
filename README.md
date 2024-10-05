@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @typestoofast aka adit daga
+- 👋 Hi, I’m Adit
 - 👀 I’m interested in ... payments and web dev for MVPs
 - 🌱 I’m currently learning ...payments @ Shopify
 - 📫 How to reach me ... work - adit.daga@shopify.com, personal - aditdaga@hey.com
